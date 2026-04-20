@@ -1,0 +1,10 @@
+# Core skills for the Email Marketing Manager archetype.
+
+human-content-style
+content-research
+google-doc-report
+google-sheets
+slack-respond
+telegram-delegate
+find-skills
+prompt-injection-guard
